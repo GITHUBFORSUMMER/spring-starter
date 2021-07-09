@@ -1,0 +1,12 @@
+{
+  "properties": [
+    {
+      "name": "spring.controller.enhance.log.open",
+      "type": "java.lang.String",
+      "description": "logging is open",
+      "sourceType": "com.summer.starter.processor.ControllerEnhanceBeanPostProcessor",
+      "type": "com.summer.starter.processor.ControllerEnhanceBeanPostProcessor$EnhanceLogEnum",
+      "defaultValue": "log_on"
+    }
+  ]
+}

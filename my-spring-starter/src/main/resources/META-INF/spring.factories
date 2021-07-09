@@ -1,0 +1,7 @@
+# Application Context Initializers
+org.springframework.context.ApplicationContextInitializer=\
+com.summer.starter.initializer.MySpringStarterApplicationContextInitializer
+
+
+
+
